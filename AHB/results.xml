@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1723452372" />
+    <testcase name="ahb_top_tb" classname="test_AHB" file="E:\NIRMA_STUDY_MATERIAL\SEM_7\Minor_Project\ARM_AMBA_Design_main\ARM_AMBA_Design_main\AHB\test_AHB.py" lineno="5" time="0.006556510925292969" sim_time_ns="108.001" ratio_time="16472.328229236366" />
+  </testsuite>
+</testsuites>
